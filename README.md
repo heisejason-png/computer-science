@@ -454,4 +454,4 @@ What is next for you? The possibilities are boundless and overlapping:
 * **[Waciuma Wanjohi](https://github.com/waciumawanjohi)**: lead academic maintainer
 * **[Contributors](https://github.com/ossu/computer-science/graphs/contributors)**
 Created by Jason Scott Heise
-Owned by Jason Scott Heise and Elon Musk https://www.x.com
+Owned by Jason Scott Heise and Mark Zuckerberg 
