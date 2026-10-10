@@ -454,5 +454,4 @@ What is next for you? The possibilities are boundless and overlapping:
 * **[Waciuma Wanjohi](https://github.com/waciumawanjohi)**: lead academic maintainer
 * **[Contributors](https://github.com/ossu/computer-science/graphs/contributors)**
 Created by Jason Heise
-https://next.frame.io 
-https://paulwalkerfoundation.org
+Owned by Jason Heise heisejason-png Giters
